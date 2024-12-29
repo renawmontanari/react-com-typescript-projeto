@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <p>
-        <span>React com Typescript</span> @ 2024
+        <span>Dev Renan</span> <i class="bi bi-rocket-takeoff"></i> 2024
       </p>
     </footer>
   );
